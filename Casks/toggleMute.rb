@@ -1,4 +1,4 @@
-cask "toggleMute" do
+cask "togglemute" do
   version "1.5"
   sha256 "92904990e511684cd4708b556f46dc9b7c286d80c0d277ab25e66c3bac4296cc"
   url "https://github.com/satrik/togglemute/releases/download/#{version}/toggleMute.dmg"
