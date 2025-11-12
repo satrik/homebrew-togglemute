@@ -12,6 +12,5 @@ cask "togglemute" do
       page.scan(regex).map { |match| "#{match[0]},#{match[1]}" }
     end
   end
-  depends_on macos: ">= :mojave"
   app "toggleMute.app"
 end
