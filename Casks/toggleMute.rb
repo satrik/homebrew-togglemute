@@ -3,7 +3,7 @@ cask "togglemute" do
   sha256 "a17d1c4c63a6c952c80c4c3e467903a3793c4277d77f22aa921c3747ae337842"
   url "https://github.com/satrik/togglemute/releases/download/#{version}/toggleMute.dmg"
   name "toggleMute"
-  desc "macOS Touch Bar and Menu Bar App to mute/unmute the microphone"
+  desc "macOS Menu Bar App to mute/unmute the microphone"
   homepage "https://github.com/satrik/toggleMute"
   livecheck do
     url "https://github.com/satrik/togglemute/releases/download/#{version}/toggleMute.dmg"
