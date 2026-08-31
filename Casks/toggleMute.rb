@@ -1,6 +1,6 @@
 cask "togglemute" do
-  version "2.1"
-  sha256 "eae73e4585cdf84e56da01aa5cfc6881685e885e6ce9909ace49a36bea6a261d"
+  version "2.1.1"
+  sha256 "30788b55a7ae15244a74c380269ed0fe367e7ba2f210afac5f8c0f060d026a67"
   url "https://github.com/satrik/togglemute/releases/download/#{version}/toggleMute.dmg"
   name "toggleMute"
   desc "macOS Menu Bar App to mute/unmute the microphone"
